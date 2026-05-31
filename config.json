@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercerify",
+        "uuid": 20058640,
+        "checksum": "d90a8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
